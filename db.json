@@ -1,0 +1,77 @@
+{
+  "platillos" : [
+    {
+      "identificación" : 1 ,
+      "nombre" : " Pizza a la Leña Pequeña " ,
+      "precio" : 15000 ,
+      "categoría" : 1
+    },
+    {
+      "identificación" : 2 ,
+      "nombre" : " Pizza a la Leña Mediana " ,
+      "precio" : 35000 ,
+      "categoría" : 1
+    },
+    {
+      "identificación" : 3 ,
+      "nombre" : " Rebanada de Pay de Limón " ,
+      "precio" : 7000 ,
+      "categoría" : 3
+    },
+    {
+      "identificación" : 4 ,
+      "nombre" : " Rebanada de Pastel de Chocolate " ,
+      "precio" : 7000 ,
+      "categoría" : 3
+    },
+    {
+      "identificación" : 5 ,
+      "nombre" : " Jugo de naranja " ,
+      "precio" : 5000 ,
+      "categoría" : 2
+    },
+    {
+      "identificación" : 6 ,
+      "nombre" : " Pizza a la Leña Grande " ,
+      "precio" : 45000 ,
+      "categoría" : 1
+    },
+    {
+      "identificación" : 7 ,
+      "nombre" : " Rib Eye 800g " ,
+      "precio" : 10000 ,
+      "categoría" : 1
+    },
+    {
+      "identificación" : 8 ,
+      "nombre" : " Jugo de naranja " ,
+      "precio" : 5000 ,
+      "categoría" : 2
+    },
+    {
+      "identificación" : 9 ,
+      "nombre" : " Tequila " ,
+      "precio" : 15000 ,
+      "categoría" : 2
+    },
+    {
+      "identificación" : 10 ,
+      "nombre" : " Rebanada de Pay de Queso " ,
+      "precio" : 7000 ,
+      "categoría" : 3
+    },
+    {
+      "identificación" : 11 ,
+      "nombre" : " Café Americano " ,
+      "precio" : 9000 ,
+      "categoría" : 2
+    },
+    {
+      "identificación" : 12 ,
+      "nombre" : " Café Capuchino " ,
+      "precio" : 12000 ,
+      "categoría" : 2
+    }
+  ]
+
+}
